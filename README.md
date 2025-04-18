@@ -4,7 +4,7 @@
 This project demonstrates the implementation of a highly available and scalable three-tier web application architecture on AWS. The architecture consists of a presentation tier (web), application tier (app), and database tier (data), following AWS best practices for security and performance.
 
 ## Architecture Diagram
-[Insert your architecture diagram here]
+![Three-Tier Architecture](images/3-Tier-Arch.png)
 
 ## Architecture Components
 
