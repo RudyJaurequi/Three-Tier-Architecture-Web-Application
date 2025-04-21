@@ -131,6 +131,4 @@ This project demonstrates the implementation of a highly available and scalable 
 - **Name**: Rudy Jaurequi
 - **LinkedIn**: [Rudy Jaurequi](https://www.linkedin.com/in/rudy-jaurequi)
 - **GitHub**: [RudyJaurequi](https://github.com/RudyJaurequi)
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+  
